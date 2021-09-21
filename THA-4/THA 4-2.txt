@@ -1,0 +1,6 @@
+5 Powerful Alternatives to REST APIs (2018 Update)
+GraphQL APIs.
+Falcor APIs.
+gRPC APIs.
+JSON-Pure APIs.
+oData APIs.

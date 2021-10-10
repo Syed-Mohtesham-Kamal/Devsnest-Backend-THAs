@@ -1,0 +1,27 @@
+{
+    "name": "THA-9",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Syed-Mohtesham-Kamal/Devsnest-Backend-THAs.git"
+    },
+    "author": "Syed Mohtesham Kamal",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Syed-Mohtesham-Kamal/Devsnest-Backend-THAsissues"
+    },
+    "homepage": "https://github.com/Syed-Mohtesham-Kamal/Devsnest-Backend-THAs#readme",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "jade": "^1.11.0"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.12"
+    }
+  }
